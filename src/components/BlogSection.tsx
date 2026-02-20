@@ -19,7 +19,7 @@ const TYPE_META: Record<WritingItem["type"], { label: string; Icon: React.Elemen
 const WRITING_AND_RESEARCH: WritingItem[] = [
   {
     id: "1",
-    title: "Pentest Copilot: Hacking the Lazy",
+    title: "Hacking, The Lazy Way: LLM Augmented Pentesting",
     subtitle: "An agentic AI system for autonomous penetration testing using LLMs.",
     type: "paper",
     href: "https://arxiv.org/abs/2409.09493",
