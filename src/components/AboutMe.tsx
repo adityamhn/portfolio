@@ -37,17 +37,22 @@ export default function AboutMe() {
         className="relative overflow-hidden"
       >
         <p className="transition-opacity duration-500 ease-out">
-          I don&apos;t have many interests outside of building things. Writing code, designing systems, making difficult architecture decisions — it&apos;s the only thing I&apos;m genuinely good at.<br />
+          I&apos;ve tried and failed at many things but succeeded at a few that truly stuck with me. In fact, I succeeded because I stuck with those.<br />
           <br />
-          I dropped out of my BTech at Manipal in 2021 because waiting felt like the wrong answer. Since then, I&apos;ve been building full-time.<br />
+          I&apos;m Aditya Peela, co-founder and CTO at BugBase. Currently, I&apos;m developing a tool called Pentest Copilot, which aims to replace a security red team in companies.{" "}
+          <a
+            href="https://copilot.bugbase.ai"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="underline decoration-gray-600 underline-offset-2 hover:text-[#FD5A57] hover:decoration-[#FD5A57] transition-colors"
+          >
+            Learn more here
+          </a>
+          .<br />
           <br />
-          Four years in, I&apos;ve learned that most hard technical problems aren&apos;t actually technical. They&apos;re about how you decompose the problem, who you put in the room, and how fast you&apos;re willing to kill your own bad ideas.<br />
+          In 2021, I dropped out of my undergraduate program at Manipal to focus on building software.<br />
           <br />
-          I build across the stack—frontend, backend and design, API design, deployment pipelines—because staying in one layer means missing how the pieces actually interact.<br />
-          <br />
-          Right now I&apos;m obsessed with the intersection of AI and security — specifically what breaks when you put an LLM in an autonomous loop with real systems. The attack surfaces are strange and underexplored. That&apos;s where I want to spend the next decade.<br />
-          <br />
-          If you&apos;re working on hard problems, building tools, or rethinking modern engineering—let&apos;s talk.<br />
+          Developing software and solving problems with it has always been what I love. I excel at solving software problems as well.<br />
         </p>
 
         {!open && (
