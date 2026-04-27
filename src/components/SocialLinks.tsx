@@ -19,7 +19,7 @@ const socials = [
     icon: XLogo,
   },
   {
-    href: "mailto:aditya@bugbase.ai",
+    href: "mailto:hello@adityapeela.com",
     label: "Mail",
     icon: Envelope,
   },
