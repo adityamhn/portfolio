@@ -14,7 +14,7 @@ export default function ProfileSection() {
 
         </h1>
         <p className="text-gray-400 text-base md:text-lg flex items-center gap-2">
-          <span>co-founder & chief technology officer @ BugBase</span>
+          <span>builder · ex co-founder & chief technology officer @ BugBase</span>
           <Image
             src="/assets/profile/bugbase.png"
             alt="BugBase"

@@ -39,20 +39,18 @@ export default function AboutMe() {
         <p className="transition-opacity duration-500 ease-out">
           I&apos;ve tried and failed at many things but succeeded at a few that truly stuck with me. In fact, I succeeded because I stuck with those.<br />
           <br />
-          I&apos;m Aditya Peela, co-founder and CTO at BugBase. Currently, I&apos;m developing a tool called Pentest Copilot, which aims to replace a security red team in companies.{" "}
-          <a
+          I&apos;m Aditya Peela, a builder, ex co-founder &amp; chief technology officer @ BugBase. I co-founded BugBase at 19 and my recent proudest build was Pentest Copilot, an autonomous AI agent that finds real security vulnerabilities without any human in the loop, aims to replace security red teams. <a
             href="https://copilot.bugbase.ai"
             target="_blank"
             rel="noopener noreferrer"
             className="underline decoration-gray-600 underline-offset-2 hover:text-[#FD5A57] hover:decoration-[#FD5A57] transition-colors"
           >
             Learn more here
-          </a>
-          .<br />
+          </a><br />
           <br />
           In 2021, I dropped out of my undergraduate program at Manipal to focus on building software.<br />
           <br />
-          Developing software and solving problems with it has always been what I love. I excel at solving software problems as well.<br />
+          The problem I find most interesting right now is the gap between &ldquo;this clearly has this capability to work in theory&rdquo; and &ldquo;building something that actually does it reliably in the real world.&rdquo; That&apos;s what I&apos;ve been working on for the past 5 years, and it&apos;s what I&apos;m chasing next.<br />
         </p>
 
         {!open && (

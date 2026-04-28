@@ -11,7 +11,7 @@ const experiences: Experience[] = [
     role: "Co-Founder & Chief Technology Officer",
     company: "BugBase",
     location: "Delhi, India",
-    period: "May 2021 - Present",
+    period: "May 2021 - Apr 2026",
     notes: [],
   },
   {
